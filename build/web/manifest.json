@@ -1,0 +1,10 @@
+{
+    "name": "Math.PY",
+    "short_name": "Math.PY",
+    "start_url": "./main.py",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "A plataforma inteligente para aprendizado de matemática.",
+    "orientation": "natural"
+}
